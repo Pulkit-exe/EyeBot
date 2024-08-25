@@ -39,7 +39,7 @@ Before running the project, ensure that you have the following installed:
 
 ## 1. Clone the Repository
    ```bash
-   git clone https://github.com/yourusername/EyeBot.git
+   git clone https://github.com/Pulkit-exe/EyeBot.git
    cd EyeBot
 ```
 ## 2. Install Required Packages
