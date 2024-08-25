@@ -62,7 +62,7 @@ After running `app.py`, open the provided local URL to interact with EyeBot's in
 # Usage
 - **Image Classification**: Upload an eye image to classify potential diseases.
 - **Chatbot Interaction**: Ask questions related to eye diseases, and receive AI-generated responses.
-- 
+
 # Demo
 
 [Watch the demo video](https://drive.google.com/uc?export=download&id=14W4QuNkJwPwVCF8oK-fy46PkCzxNVpaq)
