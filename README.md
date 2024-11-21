@@ -65,7 +65,7 @@ After running `app.py`, open the provided local URL to interact with EyeBot's in
 
 # Demo
 
-[Watch the demo video](https://drive.google.com/uc?export=download&id=14W4QuNkJwPwVCF8oK-fy46PkCzxNVpaq)
+![Demo](eyebot_demo.gif)
 
 # Future Work
 - Extend the classification model to include additional eye conditions.
